@@ -204,7 +204,7 @@ export default function MyListings(props) {
               rel="canonical"
               href={"https://homebaba.ca/" + routee.query.city_name}
             />
-            <meta name="robots" content="index, follow"></meta>
+
             <meta property="og:type" content="og:website" />
             <meta
               property="og:title"

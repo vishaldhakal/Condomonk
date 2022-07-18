@@ -194,7 +194,7 @@ export default function MyListings(props) {
             route.query.listing_id
           }
         />
-        <meta name="robots" content="index, follow"></meta>
+
         <meta property="og:type" content="og:website" />
         <meta property="og:title" content={props.house_detail.meta_title} />
         <meta

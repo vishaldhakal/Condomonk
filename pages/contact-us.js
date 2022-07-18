@@ -16,7 +16,7 @@ export default function Contact() {
           content="Contact Homebaba Now | We'd love to hear from you! Don't hesitate to contact us with any questions or feedback. Pre construction questions? Ask us now!"
         ></meta>
         <link rel="canonical" href="https://homebaba.ca/contact-us" />
-        <meta name="robots" content="index, follow"></meta>
+
         <meta property="og:type" content="og:website" />
         <meta
           property="og:title"

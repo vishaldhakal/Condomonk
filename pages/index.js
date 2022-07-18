@@ -55,7 +55,7 @@ export default function Home(props) {
           content="Looking for Pre-Construction's near Greater Toronto Area, Canada? From Townhomes to Detached and Condos Homebaba offer early access to all best pre-construction's available."
         ></meta>
         <link rel="canonical" href="https://homebaba.ca/" />
-        <meta name="robots" content="index, follow"></meta>
+
         <meta property="og:type" content="og:website" />
         <meta
           property="og:title"

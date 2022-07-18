@@ -20,7 +20,7 @@ export default function Pageee({ data }) {
           rel="canonical"
           href={"https://homebaba.ca/blog/" + myroute.query.slug + "/"}
         />
-        <meta name="robots" content="index, follow"></meta>
+
         <meta property="og:type" content="og:website" />
         <meta property="og:title" content={data.meta_title} />
         <meta property="og:description" content={data.meta_description} />
